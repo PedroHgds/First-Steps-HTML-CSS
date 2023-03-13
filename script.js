@@ -1,3 +1,1 @@
-function Soma (a,b){
-    return a+b;
-}
+println("Seja Bem-vindo Pagina Perfil");

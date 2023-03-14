@@ -1,0 +1,19 @@
+p{
+    font-family: arial;
+    background-color: blue;
+}
+#tit_1 {
+    color: crimson;
+}
+p::first-letter{
+    font-size: x-large;
+}
+
+*{
+    margin: 0;
+}
+li{
+    margin: 4;
+    color: rgb(255, 0, 0);
+    font-size: larger;
+}
